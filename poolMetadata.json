@@ -1,0 +1,6 @@
+{
+  "name": "Icarus",
+  "description": "Icarus Staking Pool TestNet",
+  "ticker": "TEST",
+  "homepage": "https://icarus-cardano.s3.us-east-1.amazonaws.com/poolMetadata.json?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEG4aCXVzLWVhc3QtMSJHMEUCIHOge8s%2FhaQMMOoWrS5J9eTp6nX1cF1zluWCKgLyneC4AiEArJQ5uKXvijZwYjTgff00opuHV8dtAbCu9vN4AKF3CMAqsAEIFxABGgw4NTA5OTE4NzI1NjciDDRrRmeDI1B%2F4a%2FWtCqNAZpkwodWbYf6B3kdjMlO0zjwgEfiNkuG4fhxo2G3tJPH1Dv%2BwjryyPPco%2BjUUQ3gawdS4%2BuFNyNCz%2Bk94NQGaH9VsycpQIe0bc%2FtAuwPLMEoAtWQl0qV8mYTyFkbjKnXHtLP4Nowmzx%2Bqz5BzR0V8HIZjmdgZQc2X69brGey6u%2FqTVHRK9aMt8C4i4bDJjDbwpz4BTqhAuupPLbNDOgL%2FM%2FJZHoADSimxkCU24HEsR26zDHXJ1upyMl8V9QZlHN2%2BFP1ZVJTyT7dUOMPo95I%2BOalhugfyeBmPkJqE%2FyUttRLg2yVXAfPx1YOHd7c9XJ8qI6vPGt90h%2FifbzIptrCputnpLGtUjBDvsYouFaYMc0rchNDUm9yuQEmsCPjRTY%2BhQfGVG47uQe0qM%2FDjrKdsezefy9psZa4DOthDyhVWW7Nyql0hQDkTxK3qt%2BuGx1h5cJ1devjP5W4W4DNc130Xj32j9qf5OKJL%2Biy45KYS04H69GLtRnhD3iNrBeCT4hsNJQ3N4YmmMQFLvXqj0IxSUKuBFfCiJBwxd%2FJkqeYzg41a5qTqndhjXgMN7BB0cNTJEeszWRjZoo%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200709T135711Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIA4MIYRPI3YZAFRYCL%2F20200709%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3ea98707fa3dbd235a29c9ce848ab1660f5ef7b2f56819fe5972f73eac09b127"
+}
